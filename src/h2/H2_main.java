@@ -9,6 +9,7 @@ public class H2_main {
 
 
         //beispiel 1
+
         max = 5;
         fix = 2;
         wartend = 12;

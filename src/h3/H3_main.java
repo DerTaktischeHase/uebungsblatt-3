@@ -22,6 +22,14 @@ public class H3_main {
             System.out.println(jahr + " ist KEIN ein Schaltjahr!");
         }
 
+
+
+
+
+
+
+
+
         Scanner scanner = new Scanner(System.in);
         System.out.print("Bitte geben sie ein jahr ein: ");
         jahr = scanner.nextInt();
